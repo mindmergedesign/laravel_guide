@@ -11,3 +11,7 @@
 * Create database
 * Configue .env file with database settings
 * Create migrations for tables `php artisan make:migration create_custom_table`
+* Define the schema for the table
+* Use factories to create dummy content
+* Seed table `php artisan make:seeder UserTableSeeder`
+* Define factory in the seeder 
