@@ -15,3 +15,4 @@
 * Use factories to create dummy content
 * Seed table `php artisan make:seeder UserTableSeeder`
 * Define factory in the seeder 
+* Run seeder `php artisan migrate --seed`
