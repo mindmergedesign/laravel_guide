@@ -1,4 +1,4 @@
-# laravel guide
+# Laravel guide
 
 ##Steps to follow when working with laravel 5.1 
 
@@ -16,3 +16,6 @@
 * Seed table `php artisan make:seeder UserTableSeeder`
 * Define factory in the seeder 
 * Run seeder `php artisan migrate --seed`
+
+###Add Resources to the application
+* Add HTML templates into the resources/views folder
